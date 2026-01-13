@@ -1,6 +1,6 @@
 # 🕯️ Candle Tap (watchOS)
 
-A magical memory-matching game built with SwiftUI specifically for the Apple Watch. 
+A magical memory matching game built with SwiftUI specifically for the Apple Watch. 
 
 ## ✨ Features
 - **Character Selection:** Choose your light from different candle skins (Amber, Phantom, Mystic).
@@ -9,8 +9,11 @@ A magical memory-matching game built with SwiftUI specifically for the Apple Wat
 
 ## 🛠️ Tech Stack
 - **SwiftUI**
+- **Clean Architecture**
 - **Combine** (for state management)
 - **watchOS 10+**
-- 
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/7bab5903-fca8-4f4b-a677-3c6df5a559eb" />
+  
+<img width="416" height="496" alt="Simulator Screenshot - Apple Watch Series 11 (46mm) - 2026-01-13 at 20 34 48" src="https://github.com/user-attachments/assets/c20b5e15-b95e-4a25-a7d7-93fc82bf34a1" />
+<img width="416" height="496" alt="Simulator Screenshot - Apple Watch Series 11 (46mm) - 2026-01-13 at 20 35 04" src="https://github.com/user-attachments/assets/8c2134d0-d3dd-4b9a-af09-2490c2c8d181" />
+<img width="416" height="496" alt="Simulator Screenshot - Apple Watch Series 11 (46mm) - 2026-01-13 at 20 35 14" src="https://github.com/user-attachments/assets/816368f7-64c4-4db1-ae9e-68a9b70cfb1b" />
 
