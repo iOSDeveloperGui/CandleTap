@@ -40,9 +40,9 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		048A3F5D2F103C5A00B28E7D /* CandleTap Watch App */ = {
+		048A3F5D2F103C5A00B28E7D /* CandleTapWatchApp */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "CandleTap Watch App";
+			path = CandleTapWatchApp;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -61,7 +61,7 @@
 		048A3F4C2F103C5900B28E7D = {
 			isa = PBXGroup;
 			children = (
-				048A3F5D2F103C5A00B28E7D /* CandleTap Watch App */,
+				048A3F5D2F103C5A00B28E7D /* CandleTapWatchApp */,
 				048A3F542F103C5A00B28E7D /* Products */,
 			);
 			sourceTree = "<group>";
@@ -110,7 +110,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				048A3F5D2F103C5A00B28E7D /* CandleTap Watch App */,
+				048A3F5D2F103C5A00B28E7D /* CandleTapWatchApp */,
 			);
 			name = "CandleTap Watch App";
 			packageProductDependencies = (
